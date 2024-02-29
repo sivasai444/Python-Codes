@@ -1,0 +1,4 @@
+a=[1,2,3,4,5]
+b=[6,7,8,9]
+merged_list=a+b
+print(merged_list)
